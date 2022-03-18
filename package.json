@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-speech-recognition": "^2.2.0",
+    "ffmpeg-static": "^4.4.1"
+  }
+}
